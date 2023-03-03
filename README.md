@@ -3,7 +3,7 @@
 ### Website
   
 - https://www.hungfu.gq/
-- www.hungfu.info
+- http://hungfu.info/
 ### Service
 ![image](https://user-images.githubusercontent.com/95430501/212032664-04ce5a09-73a3-4831-b68c-87be5bb5d61b.png)
 
